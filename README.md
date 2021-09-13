@@ -103,4 +103,4 @@ DockerfileはMIT Licenseで提供されています。
 各種DockerイメージはVOICEVOX コアライブラリを内包します。
 そのため、VOICEVOX コアライブラリの利用規約にも従う必要があります。
 Dockerイメージを公開/利用する場合は、両者のライセンス及び利用規約に従ってください。
-VOICEVOX コアライブラリの利用規約は各イメージの`/usr/local/voicevox_core/README.md`をご覧ください。
+VOICEVOX コアライブラリの利用規約は各イメージの`/usr/local/voicevox_core/README.txt`をご覧ください。
